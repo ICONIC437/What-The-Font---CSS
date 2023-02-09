@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(12, 8, 8);
+    background-color: black;
+}
+
+body{
+   
+    font-family: 'IBM Plex Serif', serif;
+}
+
+h1{
+    font-size:39px;
+    text-align: center;
+    color: #E0A96D;
+    font-family: 'Pacifico', cursive;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: left;
+    color: #E0A96D;
+}
+
+p{
+    font-size: larger;
+    text-align: center;
+    color: #DDC3A5 ;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 20px;
+    padding-bottom: 24px;
+}
+
+hr{
+    border-top: 1px dotted red;
+}
+
+div.a{
+    margin-left: 620px;
+    margin-top: -70px;
+}
